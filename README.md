@@ -1,5 +1,5 @@
 # Grupo-22
 
-#Integrantes:
+# Integrantes:
   -José Manzano
   -Thomas Rodriguez
